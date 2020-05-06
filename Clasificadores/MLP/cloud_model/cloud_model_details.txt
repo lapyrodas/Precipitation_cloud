@@ -1,0 +1,10 @@
+experiment_name,cloud
+random_method,uniform_mersenne
+reduction_method,
+reduction_interval,50
+reduction_window,20
+reduction_threshold,0.2
+reduction_metric,val_acc
+complete_time,03/01/20/21:30
+x_shape,"(28604, 21)"
+y_shape,"(28604, 3)"
